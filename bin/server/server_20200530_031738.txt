@@ -1,0 +1,12 @@
+WARNING - 03:17:38: First conversion pass
+ERROR - 03:17:38: java.io.FileNotFoundException: /DS Assignment 2/bin/client/Client.class (No such file or directory)
+ERROR - 03:17:38: java.io.FileNotFoundException: /DS Assignment 2/bin/client/Client.class (No such file or directory)
+WARNING - 03:17:56: First conversion pass
+ERROR - 03:17:56: java.io.FileNotFoundException: /DS Assignment 2/bin/client/Client.class (No such file or directory)
+ERROR - 03:17:56: java.io.FileNotFoundException: /DS Assignment 2/bin/client/Client.class (No such file or directory)
+WARNING - 03:18:05: First conversion pass
+WARNING - 03:18:33: Convert server
+WARNING - 03:18:33: First conversion pass
+WARNING - 03:18:34: Second pass : generating package usages
+WARNING - 03:18:34: Saving uml file /resource/DS Assignment 2/src/server/server.uml
+WARNING - 03:18:34: Uml file /resource/DS Assignment 2/src/server/server.uml saved
