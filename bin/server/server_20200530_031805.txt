@@ -1,6 +1,0 @@
-WARNING - 03:18:05: First conversion pass
-WARNING - 03:18:33: Convert server
-WARNING - 03:18:33: First conversion pass
-WARNING - 03:18:34: Second pass : generating package usages
-WARNING - 03:18:34: Saving uml file /resource/DS Assignment 2/src/server/server.uml
-WARNING - 03:18:34: Uml file /resource/DS Assignment 2/src/server/server.uml saved
